@@ -1,23 +1,23 @@
 criaCartao(
-    'Programação', 
-    'O que é JavaScript?',
-    ' O JavaScript é uma linguagem de programação'
+    'Prih', 
+    'Qual é a coisa mais aleatória na minha mochila?',
+    ' Um prendedor'
 )
 
 criaCartao(
-    'Geografia', 
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Prih', 
+    'Como eu gosto de passar meu aniversário?',
+    'De boas, sem festa'
 )
 
 criaCartao(
-    'Programação', 
-    'O que é função?',
-    'Uma função é um bloco de códigos que executa uma função'
+    'Prih', 
+    'Se eu pudesse viajar no tempo, pra onde eu iria?',
+    'Era Victoriana'
 )
 
 criaCartao(
-    'Matemática', 
-    'Qual é o resultado de 6 x 8?',
-    'O resultado é 48'
+    'Prih', 
+    'Qual é a minha linguagem de amor?',
+    'Tempo de qualidade'
 )
