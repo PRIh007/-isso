@@ -1,23 +1,23 @@
 criaCartao(
     'Prih', 
-    'Qual é a coisa mais aleatória na minha mochila?',
-    ' Um prendedor'
+    'Qual é a minha cor preferida?',
+    ' Roxo e preto'
 )
 
 criaCartao(
     'Prih', 
-    'Como eu gosto de passar meu aniversário?',
-    'De boas, sem festa'
+    'Qual esporte que eu gosto?',
+    'Basquete'
 )
 
 criaCartao(
     'Prih', 
-    'Se eu pudesse viajar no tempo, pra onde eu iria?',
-    'Era Victoriana'
+    'Qual cantor eu mais escuto?',
+    'The Weekend'
 )
 
 criaCartao(
     'Prih', 
-    'Qual é a minha linguagem de amor?',
-    'Tempo de qualidade'
+    'Quando é meu aniversário?',
+    '26 de Janeiro'
 )
